@@ -1,3 +1,4 @@
+//first generic component to test of all overhead is running smoothly
 import React from 'react';
 
 class App extends React.Component {
